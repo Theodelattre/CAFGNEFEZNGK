@@ -1,0 +1,67 @@
+/***** CSS *******/
+
+body{
+	font-family: 'Century Gothic', Calibri, serif;
+	font-size: 13px;
+	text-align: center;
+	background-color: #E5E7E9;
+}
+
+h1{
+	font-weight: small-caps;
+	color: black;
+}
+h2{
+	text-align: center;
+	font-weight: small-caps;
+	font-size: 18px;
+	color: black;
+}
+h3{
+	text-align: center;
+	font-weight: small-caps;
+	font-size: 18px;
+	color: black;
+	
+}
+
+h4{
+	text-align: right;
+	font-weight: small-caps;
+	color: Black;
+}
+
+h5{
+	text-align: left;
+	font-weight: small-caps;
+	color: black;
+	
+}
+
+h6{
+	text-align: center;
+	color: black;
+	
+}
+
+
+p {
+    text-indent: 50px;
+    letter-spacing: 1px;
+}
+img{
+	width: 50%;
+    display: block;
+	margin-left: auto;
+    margin-right: auto }
+a {
+	text-decoration: none;
+    color: #008CBA;
+}
+footer{
+	height: 80px;
+	padding-top: 30px;
+	text-align: center;
+	background-color: #C5C5C5;
+	border-top: 2px solid #AAA;
+}

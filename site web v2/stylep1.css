@@ -1,0 +1,66 @@
+/***** CSS *******/
+
+body{
+	font-family: 'Century Gothic', Calibri, serif;
+	font-size: 13px;
+	text-align: center;
+	background-color: white;
+}
+
+h1{
+	font-weight: small-caps;
+	color: black;
+}
+#quizz{
+	font-size:20px;
+	text-decoration: underline;
+}
+#lien{
+	color:green;
+}
+h2{
+	font-weight: normal;
+	color: black;
+}
+h3{
+	text-align: center;
+	text-decoration: underline;
+	font-size: 18px;
+	
+}
+
+h4{
+	text-align: center;
+	text-decoration: underline;
+	font-size: 18px;
+}
+h5{
+	text-align: center;
+	text-decoration: underline;
+	font-size: 18px;
+}
+h6{
+	text-align:right; 
+	font-size: 12px;
+}
+
+p {
+    text-indent: 50px;
+    letter-spacing: 1px;
+}
+img{
+	width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+a {
+    text-decoration: none;
+    color: #008CBA;
+}
+footer{
+	height: 80px;
+	padding-top: 30px;
+	text-align: center;
+	background-color: #C5C5C5;
+	border-top: 2px solid #AAA;
+}
