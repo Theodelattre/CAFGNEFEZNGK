@@ -1,40 +1,12 @@
 
 
-# Introduction à l'usage de Git pour le contrôle de version
-**IPSA 2023 - 2024**
+# Les questions pour M.Condette à propos de Git
+*Parce que je ne comprends rien à Git pour le moment*
+1) Comment mettre des niveaux de titre et mettre en page le ReadMe
+2) Comment savoir les fichiers/répertoire à mettre dans le .gitignore parce que c'est le bazar en vrai on va pas se mentir
+3) Est ce que l'on peut modifier les fichiers du dépôt directement depuis le git hub en ligne / Quels sont les intérés de pouvoir faire ça
+4) Que fait réellement un git pull, est ce que l'on recupère uniquement les fichiers qui ont été modifier ou on copie une nouvelle fois l'ensemble du dépôt 
 
-Alexandre Condette - alexandre2.condette@ipsa.fr
----
-*Introduction à Git pour les étudiants d'Aéro 3*
-____
 
-## Installer Git
-Avant de lancer cette procédure, vérifiez que Git n'est pas déjà installé sur votre PC :
-- Ouvrer un terminal
-- Executer la commande suivante : 
-```console
-git --version
-```
-
-### Windows 
-Télécharger l'exécutable directement depuis le site de GitHub : https://gitforwindows.org/
-
-Pour installer l’outil, double cliquez simplement sur l’icone du fichier téléchargé. Une interface se lance alors et vous propose, page après page, de configurer l’installation de Git. Je vous conseil alors de laisser les valeurs par défaut et de simplement cliquer sur suivant.
-
-Une fois arrivé sur la dernière page, il ne vous reste plus qu’à cliquer sur installer.
-
-Vous venez alors d’installer les éléments suivants sur votre machine:
-- L’outil Git.
-- Git bash: terminal qui vous permet d’utiliser git en ligne de commande.
-- Git gui: interface graphique qui permet de gérer les commits.
-- Gitk: interface graphique qui permet de gérer l’historique de votre dépôt.
-
-### Linux
-#### Debian / Ubuntu 
-
-```console
-sudo apt-get update
-sudo apt-get install git
-```
 
   
